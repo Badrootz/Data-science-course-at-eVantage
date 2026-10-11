@@ -1,2 +1,3 @@
 .env
 sapt2/customer_churn_cleaned.csv
+.DS_Store
